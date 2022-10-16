@@ -5,7 +5,7 @@ def is_valid_triangle(x, y, z):
     else:
         return False
 
-# Reading Three Sides
+# Three Triangle Sides
 side_x = float(input('side x: '))
 side_y = float(input('side y: '))
 side_z = float(input('side z: '))
