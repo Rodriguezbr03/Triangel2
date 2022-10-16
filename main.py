@@ -13,6 +13,6 @@ side_z = float(input('side z: '))
 # Print when my triangle angle size cannot or can  form a triangle
 
 if is_valid_triangle(side_x, side_y, side_z):
-    print('Triangle is Valid.')
+    print('Triangeln är giltig.')
 else:
-    print('Triangle is Invalid.')
+    print('Triangeln är ogiltig.')
